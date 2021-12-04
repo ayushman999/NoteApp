@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="show_password">Show Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="user_password">Enter password</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968454852087",
+    "project_id": "noteapp-47a97",
+    "storage_bucket": "noteapp-47a97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968454852087:android:fbdab9268f189c5943b2f2",
+        "android_client_info": {
+          "package_name": "com.ayushman999.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968454852087-vjppgd5ru43boq89bbtme87de6e94b4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfz96nQFIpcpsd-Wy5TMogLXYXJkjjBR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968454852087-vjppgd5ru43boq89bbtme87de6e94b4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
